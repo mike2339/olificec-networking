@@ -1,5 +1,5 @@
 # olificec-networking
-(e.g., OLIFICEC Networking Services and Auth Port 53 Server)
+OLIFICEC Networking Services and Auth Port 53 Server)
 <!DOCTYPE html>
 <html lang="en">
 <head>
